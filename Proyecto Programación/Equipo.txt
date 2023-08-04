@@ -1,0 +1,8 @@
+Francisco David Zárate Vásquez
+Luis Japhet Morales Navarrete
+-------**SUPOSICIONES**----------
+Este programa trata de llevar control de recurso humanos de una empresa
+Guardar datos como: Nombre, Apelllidos, NSS, departamento, puesto, fecha de contratación
+Reutilizamos el codigo de un ejercicio anterior el cual ya implementaba
+Herencia y composición.Sin embargo, surgieron excepciones las cuales no pudemos resolver.
+
